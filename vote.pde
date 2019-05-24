@@ -13,3 +13,6 @@ void draw(){
  fill(13, 13, 229);
 
 }
+Button butt = new Button();
+
+  
