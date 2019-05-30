@@ -1,5 +1,4 @@
-
-   int blueCt=0;
+  int blueCt=0;
    int redCt=0;
    int pinkCt=0; 
    int porpleCt=0;
@@ -75,5 +74,3 @@ void mousePressed(){
   }
 
   
-
-    
